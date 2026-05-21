@@ -94,7 +94,7 @@
 
                       <div class="mt-auto flex justify-end">
                           <a href="/posts/{{ $post->slug }}" class="text-primary-600 font-bold text-sm inline-flex items-center hover:translate-x-1 transition-transform">
-                              Read more
+                              Baca Selenngkapnya
                               <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path></svg>
                           </a>
                       </div>
