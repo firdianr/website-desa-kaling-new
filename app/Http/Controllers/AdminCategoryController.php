@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\category;
+use App\Models\Category;
 use Database\Seeders\CategorySeeder;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
